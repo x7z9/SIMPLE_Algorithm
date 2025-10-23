@@ -7,4 +7,4 @@ g++ -O3 -std=c++11 SIMPLE_Algorithm.cpp -o piso_solver
 ./SIMPLE_Algorithm
 
 # Visualize results (using Python/MATLAB/ParaView)
-# Import piso_results.csv for velocity and pressure fields
+# Import simple_results.csv for velocity and pressure fields
